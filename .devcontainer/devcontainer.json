@@ -1,0 +1,11 @@
+{
+	"name": "Clojure",
+	"dockerFile": "Dockerfile",
+	"extensions": [
+		"betterthantomorrow.calva",
+		"tonsky.clojure-warrior"
+	],
+	"settings":{
+		"calva.jokerPath": "/usr/bin"
+	}
+}
