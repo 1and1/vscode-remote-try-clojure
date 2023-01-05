@@ -3,7 +3,7 @@
 # Licensed under the MIT License. See LICENSE in the project root for license information.
 #-----------------------------------------------------------------------------------------
 
-FROM clojure:openjdk-8-lein-2.9.1
+FROM --platform=linux/amd64 clojure:openjdk-8-lein-2.9.1
 
 # Configure apt
 ENV DEBIAN_FRONTEND=noninteractive
