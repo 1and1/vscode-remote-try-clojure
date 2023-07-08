@@ -27,6 +27,7 @@ Some things to try:
 2. **Terminal:** Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>\`</kbd> and type `uname` and other Linux commands from the terminal window.
 3. **REPL:**
    - Press <kbd>F1</kbd> and select **Calva: Start a Project REPL and connect** to launch the REPL.
+   - Select `Leiningen`
 
 ## Contributing
 
